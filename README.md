@@ -1,14 +1,17 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Jagdish Bainade</h1>
 
-<!-- Profile Image -->
+<!-- Profile Image 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </p>
+-->
 
 
-<!-- Profile Views Badge -->
+<!-- Profile Views Badge 
 ---
+-->
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jagdish1123)
 
