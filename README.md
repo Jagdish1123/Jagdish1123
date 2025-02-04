@@ -1,18 +1,11 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Jagdish Bainade</h1>
 
-<!-- Profile Image 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-</p>
--->
+<!-- Portfolio Link -->
+### 📧 Check out my portfolio: 
+<a href="https://jagdish1123.github.io/Portfolio/" target="_blank">My Portfolio</a>
 
-
-<!-- Profile Views Badge 
----
--->
-
-
+<!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Jagdish1123)
 
 <!-- About Me Section -->
@@ -44,7 +37,7 @@ I am a passionate Full Stack Web Developer and Cybersecurity Enthusiast <img src
   </a>
 
   <!-- Codechef -->
-  <a href="https://www.codechef.com/users/jagdish_2003" target="_blank" >
+  <a href="https://www.codechef.com/users/jagdish_2003" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jagdish1123" height="30" width="40" />
   </a>
 </p>
@@ -57,27 +50,27 @@ I am a passionate Full Stack Web Developer and Cybersecurity Enthusiast <img src
 #### Frontend Development:
 <p align="left">
   <!-- Frontend Icons -->
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>
 </p>
 
 #### Backend Development:
 <p align="left">
   <!-- Backend Icons -->
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </p>
 
 #### Databases:
 <p align="left">
   <!-- Database Icons -->
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </p>
 
 ---
@@ -97,14 +90,3 @@ I am a passionate Full Stack Web Developer and Cybersecurity Enthusiast <img src
 <!-- Contact Section -->
 ### 📧 Contact Me:
 - **Email**: [jagdishbainade01@gmail.com](mailto:jagdishbainade01@gmail.com)
-
-<!--
-   The following section contains a hidden comment that is used for potential future purposes, such as displaying LeetCode stats or GitHub insights.
--->
-<!---
-Jagdish1123/Jagdish1123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-## My LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/jagdish_2003?theme=dark&font=Karma&ext=activity)
---->
