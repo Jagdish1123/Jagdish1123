@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Jagdish Bainade</h1>
 
 <!-- Portfolio Link -->
-### 📧 Check out my portfolio: 
-<a href="https://jagdish1123.github.io/Portfolio/" target="_blank">My Portfolio</a>
+### 📧 Check out my portfolio:
+[My Portfolio](https://portfolio-blush-nu-25.vercel.app/)
 
 <!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Jagdish1123)
