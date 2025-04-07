@@ -1,92 +1,78 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Jagdish Bainade</h1>
+<h3 align="center">🚀 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🤝 Open Source Contributor</h3>
 
-<!-- Portfolio Link -->
-### 📧 Check out my portfolio:
-[My Portfolio](https://portfolio-blush-nu-25.vercel.app/)
+<p align="center">
+  <a href="https://portfolio-blush-nu-25.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jagdish1123">
+    <img src="https://komarev.com/ghpvc/?username=Jagdish1123&style=for-the-badge&color=blue" alt="Profile Views" />
+  </a>
+</p>
 
-<!-- Profile Views Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=Jagdish1123)
 
-<!-- About Me Section -->
+---
+
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack Web Developer and Cybersecurity Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
-- 🎓 **Education**: Computer Engineering student at PICT, contributing to frontend and backend development for websites.  
-- 🔐 **Cybersecurity**: Familiar with basic concepts of ethical hacking and security measures.  
-- 🐧 **Linux Enthusiast**: Proficient in using Linux for development and exploring its applications in cybersecurity.  
-- 🌐 **Skills**: Full-stack web development with modern frameworks and tools like React, Next.js, Tailwind CSS, and Django REST Framework.  
-- 🛠️ **Projects**: Explore my work here: [My Projects](https://github.com/jagdish1123?tab=repositories).  
-- 🌱 **Interests**: Continuously learning about Web Development, AI/ML, and cybersecurity concepts.  
-- 🧩 **Hobbies**: Solving coding challenges on platforms like Leetcode and CodeChef, and participating in hackathons and technical events.  
-- ⚡ **Fun Fact**: I enjoy exploring open-source tools and turning creative ideas into impactful projects!  
+I’m a passionate Full Stack Developer and Cybersecurity Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+- 🎓 **Education**: Computer Engineering student @ PICT  
+- 🔐 **Cybersecurity**: Enthusiast diving into ethical hacking & secure coding  
+- 🐧 **Linux Power User**: Exploring shells and scripting for automation  
+- 🌐 **Tech Stack**: React, Next.js, Tailwind, Django, Node.js  
+- 🌱 **Currently Learning**: Cloud, AI/ML & Advanced Security  
+- 🛠️ **Projects**: Check out my GitHub for awesome work  
+- ⚡ **Fun Fact**: I can solve a Rubik’s Cube faster than my code compiles!
 
 ---
+## 🧠 Tech Stack
 
-<!-- Social Media Links Section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/jagdishbainade" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagdishbainade" height="30" width="40" />
-  </a>
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,threejs" />
+</p>
 
-  <!-- Leetcode -->
-  <a href="https://www.leetcode.com/jagdish_2003" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jagdish_2003" height="30" width="40" />
-  </a>
+### 🛠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+</p>
 
-  <!-- Codechef -->
-  <a href="https://www.codechef.com/users/jagdish_2003" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jagdish1123" height="30" width="40" />
-  </a>
+### 💾 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vercel,postman" />
 </p>
 
 ---
 
-<!-- Technical Skills Section -->
-### 🛠️ Technical Skills:
+## 📊 GitHub Analytics
 
-#### Frontend Development:
-<p align="left">
-  <!-- Frontend Icons -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagdish1123&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish1123&layout=compact&theme=radical" />
 </p>
 
-#### Backend Development:
-<p align="left">
-  <!-- Backend Icons -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</p>
-
-#### Databases:
-<p align="left">
-  <!-- Database Icons -->
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagdish1123&theme=radical" />
 </p>
 
 ---
+## 🤝 Let's Connect
 
-<!-- GitHub Stats Section -->
-### 📊 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Jagdish1123&count_private=true&show_icons=true&include_all_commits=true" alt="Jagdish Bainade | Stats" />
-
-<!-- Most Used Languages Section -->
-### 💻 Most Used Languages
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish1123&layout=compact" alt="Jagdish Bainade | Top Languages" />
-</a>
+<p align="center">
+  <a href="https://portfolio-blush-nu-25.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jagdishbainade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jagdishbainade01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/jagdish_2003"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/jagdish_2003"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
 
 ---
-
-<!-- Contact Section -->
-### 📧 Contact Me:
-- **Email**: [jagdishbainade01@gmail.com](mailto:jagdishbainade01@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&multiline=true&width=600&lines=Keep+Pushing+Code+🚀;Break+Things+%26+Fix+Them+%F0%9F%9B%A0%EF%B8%8F;Build+What+Matters+%F0%9F%92%BB" />
+</p>
