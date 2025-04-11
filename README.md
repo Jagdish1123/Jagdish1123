@@ -67,7 +67,7 @@ I’m a passionate Full Stack Developer and Cybersecurity Enthusiast <img src="h
 
 <p align="center">
 
-  <a href="https://portfolio-blush-nu-25.vercel.app/">
+  <a href="https://portfolio-web-green-tau.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/jagdishbainade">
