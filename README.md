@@ -28,7 +28,6 @@ I’m a passionate Full Stack Developer and Cybersecurity Enthusiast <img src="h
 
 ---
 ## 🧠 Tech Stack
-
 ### 🚀 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,threejs" />
@@ -46,8 +45,10 @@ I’m a passionate Full Stack Developer and Cybersecurity Enthusiast <img src="h
 
 ### 🧰 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,git,github,vercel,postman,figma,vscode," />
 </p>
+
+
 
 ---
 
