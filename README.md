@@ -1,30 +1,43 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Jagdish Bainade</h1>
-<h3 align="center">🚀 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🤝 Open Source Contributor</h3>
+<h1 align="center">Hi, I'm Jagdish Bainade 👨‍💻</h1>
+<h3 align="center">
+  💻 Full Stack Developer • 🔐 Cybersecurity Explorer • 🌍 Open Source Contributor
+</h3>
+
+
+---
+
+## 👨‍💻 About Me  
 
 <p align="center">
   <a href="https://portfolio-web-green-tau.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
-  <a href="https://github.com/Jagdish1123">
-    <img src="https://komarev.com/ghpvc/?username=Jagdish1123&style=for-the-badge&color=blue" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Jagdish1123&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
+
+<p align="center">
+  Passionate about building secure, scalable systems and contributing to meaningful tech.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="coding gif" />
+</p>
+
+
 
 
 
 ---
 
-## 👨‍💻 About Me
+- 🎓 **Education**: Computer Engineering student at **PICT (Pune Institute of Computer Technology)**
+- 🔐 **Cybersecurity**: Exploring ethical hacking, secure coding, and red/blue team operations
+- 🐧 **Linux Power User**: Comfortable with shell scripting and system automation
+- 🌐 **Tech Stack**: `React`, `Next.js`, `Tailwind CSS`, `Django`, `Node.js`, `FastAPI`, `MongoDB`, `PostgreSQL`
+- 🌱 **Currently Learning**: `Cloud Platforms`, `AI/ML`, and `Advanced Security Concepts`
+- 🛠️ **Projects**: Check out my GitHub for projects like **SmartBudget**, **CaseBase**, and more!
+- ⚡ **Fun Fact**: I can solve a **Rubik’s Cube** faster than some of my code compiles 😄
 
-I’m a passionate Full Stack Developer and Cybersecurity Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-- 🎓 **Education**: Computer Engineering student @ PICT  
-- 🔐 **Cybersecurity**: Enthusiast diving into ethical hacking & secure coding  
-- 🐧 **Linux Power User**: Exploring shells and scripting for automation  
-- 🌐 **Tech Stack**: React, Next.js, Tailwind, Django, Node.js  
-- 🌱 **Currently Learning**: Cloud, AI/ML & Advanced Security  
-- 🛠️ **Projects**: Check out my GitHub for awesome work  
-- ⚡ **Fun Fact**: I can solve a Rubik’s Cube faster than my code compiles!
 
 ---
 ## 🧠 Tech Stack
