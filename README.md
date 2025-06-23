@@ -79,7 +79,7 @@ I’m a passionate Full Stack Developer and Cybersecurity Enthusiast <img src="h
   <a href="https://leetcode.com/jagdish_2003">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/jagdish_2003">
+  <a href="https://leetcode.com/u/jagdish_22/">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
