@@ -53,9 +53,9 @@
 
 ### 💾 Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
-
+  
 ### 🧰 Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,git,github,vercel,postman,figma,vscode," />
