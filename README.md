@@ -96,7 +96,11 @@
   <a href="https://www.codechef.com/users/jagdish_2003">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
+  <a href="https://www.naukri.com/code360/profile/4807bd63-713f-4ec2-b366-faff155ad846">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-DD0031?style=for-the-badge&logo=codingninjas&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 <p align="center">
