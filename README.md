@@ -64,6 +64,15 @@
 
 
 ---
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| 🔐 Security | ☁️ Cloud | 🤖 AI/ML | ⚡ Performance |
+|------------|----------|----------|----------------|
+| Advanced Pentesting | AWS & Azure Services | Machine Learning | System Optimization |
+
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -77,6 +86,17 @@
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Jagdish1123&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -103,6 +123,8 @@
 
 
 ---
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&multiline=true&width=600&lines=Keep+Pushing+Code+🚀;Break+Things+%26+Fix+Them+%F0%9F%9B%A0%EF%B8%8F;Build+What+Matters+%F0%9F%92%BB" />
 </p>
