@@ -30,13 +30,15 @@
 
 ---
 
-- 🎓 **Education**: Computer Engineering student at **PICT (Pune Institute of Computer Technology)**
-- 🔐 **Cybersecurity**: Exploring ethical hacking, secure coding, and red/blue team operations
-- 🐧 **Linux Power User**: Comfortable with shell scripting and system automation
-- 🌐 **Tech Stack**: `React`, `Next.js`, `Tailwind CSS`, `Django`, `Node.js`, `FastAPI`, `MongoDB`, `PostgreSQL`
-- 🌱 **Currently Learning**: `Cloud Platforms`, `AI/ML`, and `Advanced Security Concepts`
-- 🛠️ **Projects**: Check out my GitHub for projects like **SmartBudget**, **CaseBase**, and more!
-- ⚡ **Fun Fact**: I can solve a **Rubik’s Cube** faster than some of my code compiles 😄
+- 🎓 **Computer Engineering Student** at **PICT (Pune Institute of Computer Technology)**  
+- 🏗️ Building and contributing to **scalable backend systems & SaaS-based architectures**  
+- ☁️ Gaining hands-on exposure to **Cloud Infrastructure, CI/CD pipelines, and DevOps workflows**  
+- 🔐 Practicing **secure development principles**, code quality standards, and OWASP guidelines  
+- 🐧 Working comfortably in **Linux environments** with automation and system-level understanding  
+- 🌱 Currently focused on improving **System Design, Cloud Architecture, and Performance Optimization**  
+- 🛠️ Actively developing real-world projects and backend modules with production-oriented practices  
+- ⚡ Fun Fact: I can solve a **Rubik’s Cube** faster than some builds finish compiling 😄  
+
 
 
 ---
@@ -69,9 +71,11 @@
 
 <div align="center">
 
-| 🔐 Security | ☁️ Cloud | 🤖 AI/ML | ⚡ Performance |
-|------------|----------|----------|----------------|
-| Advanced Pentesting | AWS & Azure Services | Machine Learning | System Optimization |
+| 🔐 Security Engineering | ☁️ Cloud & DevOps | 🤖 AI/ML | ⚡ System Design |
+|------------------------|------------------|----------|-----------------|
+| Secure SDLC • OWASP • Threat Modeling | AWS Architecture • Kubernetes • CI/CD | Applied ML • Model Deployment | Distributed Systems • Scalability • Performance Tuning |
+
+</div>
 
 </div>
 
