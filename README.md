@@ -41,24 +41,25 @@
 
 ---
 ## 🧠 Tech Stack
+
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,threejs" />
 </p>
 
 ### 🛠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,express,fastapi,maven" />
 </p>
 
 ### 💾 Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
-  
+
 ### 🧰 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,git,github,vercel,postman,figma,vscode," />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,linux,bash,git,github,gitlab,postman,vscode,figma,kafka,terraform" />
 </p>
 
 
