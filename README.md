@@ -67,6 +67,7 @@
 | Secure SDLC • OWASP • Threat Modeling | AWS Architecture • Kubernetes • CI/CD | Applied ML • Model Deployment | Distributed Systems • Scalability • Performance Tuning |
 
 </div>
+
 ---
 
 ## 📊 GitHub Analytics
