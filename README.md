@@ -1,47 +1,39 @@
-<!-- Header Section -->
-<h1 align="center">Hi, I'm Jagdish Bainade 👨‍💻</h1>
-<h3 align="center">
-  💻 Full Stack Developer • 🔐 Cybersecurity Explorer • 🌍 Open Source Contributor
-</h3>
-
-
----
-
-## 👨‍💻 About Me  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C9A7,100:00d4ff&height=220&section=header&text=Jagdish%20Bainade&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Explorer%20%E2%80%A2%20Open%20Source%20Contributor&descSize=18&descAlignY=55&descColor=ffffff" />
 
 <p align="center">
   <a href="https://portfolio-web-green-tau.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Jagdish1123&style=for-the-badge&color=blue" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/jagdishbainade">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:jagdishbainade01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Jagdish1123&style=for-the-badge&color=00C9A7" alt="Profile Views" />
 </p>
 
 <p align="center">
-  Passionate about building secure, scalable systems and contributing to meaningful tech.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=600&lines=Building+Secure+%26+Scalable+Systems+%F0%9F%94%90;Full+Stack+Developer+%7C+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%8D;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="coding gif" />
-</p>
-
-
-
-
+<br/>
 
 ---
 
-- 🎓 **Computer Engineering Student** at **PICT (Pune Institute of Computer Technology)**  
-- 🏗️ Building and contributing to **scalable backend systems & SaaS-based architectures**  
-- ☁️ Gaining hands-on exposure to **Cloud Infrastructure, CI/CD pipelines, and DevOps workflows**  
-- 🔐 Practicing **secure development principles**, code quality standards, and OWASP guidelines  
-- 🐧 Working comfortably in **Linux environments** with automation and system-level understanding  
-- 🌱 Currently focused on improving **System Design, Cloud Architecture, and Performance Optimization**  
-- 🛠️ Actively developing real-world projects and backend modules with production-oriented practices  
-- ⚡ Fun Fact: I can solve a **Rubik’s Cube** faster than some builds finish compiling 😄  
+## 👨‍💻 About Me
 
-
+- 🎓 **Computer Engineering Student** at **PICT (Pune Institute of Computer Technology)**
+- 🏗️ Building and contributing to **scalable backend systems & SaaS-based architectures**
+- ☁️ Gaining hands-on exposure to **Cloud Infrastructure, CI/CD pipelines, and DevOps workflows**
+- 🔐 Practicing **secure development principles**, code quality standards, and OWASP guidelines
+- 🐧 Working comfortably in **Linux environments** with automation and system-level understanding
+- 🌱 Currently focused on improving **System Design, Cloud Architecture, and Performance Optimization**
+- 🛠️ Actively developing real-world projects and backend modules with production-oriented practices
+- ⚡ Fun Fact: I can solve a **Rubik's Cube** faster than some builds finish compiling 😄
 
 ---
+
 ## 🧠 Tech Stack
 
 ### 🚀 Frontend
@@ -64,9 +56,8 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,linux,bash,git,github,gitlab,postman,vscode,figma,kafka,terraform" />
 </p>
 
-
-
 ---
+
 ## 🌱 Currently Exploring
 
 <div align="center">
@@ -76,36 +67,25 @@
 | Secure SDLC • OWASP • Threat Modeling | AWS Architecture • Kubernetes • CI/CD | Applied ML • Model Deployment | Distributed Systems • Scalability • Performance Tuning |
 
 </div>
-
-</div>
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagdish1123&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish1123&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jagdish1123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" alt="GitHub Stats" />
+  &nbsp;
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagdish1123&theme=radical&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagdish1123&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish1123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9A7&text_color=c9d1d9" alt="Top Languages" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Jagdish1123&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15)
-
-</div>
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-
   <a href="https://portfolio-web-green-tau.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -126,10 +106,8 @@
   </a>
 </p>
 
-
----
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C9A7,100:00d4ff&height=120&section=footer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&multiline=true&width=600&lines=Keep+Pushing+Code+🚀;Break+Things+%26+Fix+Them+%F0%9F%9B%A0%EF%B8%8F;Build+What+Matters+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=500&lines=Keep+Pushing+Code+%F0%9F%9A%80;Break+Things+%26+Fix+Them+%F0%9F%9B%A0%EF%B8%8F;Build+What+Matters+%F0%9F%92%BB;Secure+by+Design+%F0%9F%94%90" />
 </p>
